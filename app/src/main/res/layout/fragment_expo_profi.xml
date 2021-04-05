@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".ui.expoprofi.ExpoProfiFragment">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/MyStyleFromDetails"
+        android:layout_marginStart="16dp"
+        android:layout_marginVertical="16dp"
+        android:text="@string/Titulo_experiencia"
+        android:layout_marginLeft="16dp" />
+
+    <TextView
+        android:id="@+id/text_empresa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/MyStyleFromDetails"
+        android:text="@string/titulo_empresa" />
+
+    <TextView
+        android:id="@+id/texto_empresa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nome_empresa" />
+
+    <TextView
+        android:id="@+id/text_funcao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/MyStyleFromDetails"
+        android:text="@string/funcao" />
+
+    <TextView
+        android:id="@+id/text_funcao_nome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/engenheiro_civil" />
+
+    <TextView
+        android:id="@+id/text_periodo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/MyStyleFromDetails"
+        android:text="@string/perido" />
+
+    <TextView
+        android:id="@+id/text_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/texto_data" />
+
+
+</LinearLayout>

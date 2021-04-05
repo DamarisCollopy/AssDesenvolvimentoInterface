@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Ass Desenvolvimento Interface</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Perfil</string>
+    <string name="nav_header_subtitle">antonio.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Menu-->
+    <string name="perfil">Projeto Desenvolvimento</string>
+    <string name="menu_home">Perfil</string>
+    <string name="menu_formcao">Formacao</string>
+    <string name="menu_expprofis">Experiência Profissional</string>
+    <string name="menu_curso">Cursos</string>
+    <string name="menu_publi">Publicacao</string>
+
+    <!-- Perfil fragmento -->
+
+    <string name="name_casado">Situacao : Casado</string>
+    <string name="engenheiro_civil">Profissao : Engenheiro Civil</string>
+    <string name="name_antonio">Nome : Antonio Carlos</string>
+
+    <!-- Fragamento formacao-->
+    <string name="educacao">Educacao</string>
+    <string name="ano_conclusao">Ano de Conclusao</string>
+
+    <!-- Fragament Experiencia -->
+    <string name="Titulo_experiencia">Experiencia Profissional</string>
+    <string name="titulo_empresa">Empresa :</string>
+    <string name="texto_data">Abril 2012 ate Janeiro 2020</string>
+    <string name="perido">Perido:</string>
+    <string name="funcao">Funcao:</string>
+
+    <!-- formulario registro -->
+    <string name="text_title">Registro</string>
+    <string name="text_name">Nome</string>
+    <string name="text_surname">Sobrenome</string>
+    <string name="text_email">Email</string>
+    <string name="text_address">Endereco</string>
+    <string name="text_tel">Telefone</string>
+    <string name="text_cpf">CPF</string>
+    <string name="text_passworld">Senha</string>
+    <string name="text_button">Salvar</string>
+
+    <!-- formulario publicacao -->
+    <string name="resumo">Complementado com dezenas de casos concretos, envolvendo dilemas eticos para os engenheiros, esta edicao inclui tambem codigos de etica profissional de diversas organizacoes e paises.</string>
+    <string name="ano_publicacao">Data da primeira publicação: 2014</string>
+    <string name="autores_publicacao">Autores: Jorge Braga, ARMENIO REGO</string>
+    <string name="titullo_publicacao">Ética para engenheiros</string>
+    <string name="publicacao">Publicacao :</string>
+    <string name="nome_empresa">Lumar</string>
+
+
+</resources>

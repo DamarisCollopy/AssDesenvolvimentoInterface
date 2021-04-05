@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_perfil"
+            android:title="@string/menu_home"
+            android:drawableLeft="@drawable/ic_menu_person" />
+
+        <item
+            android:id="@+id/nav_formacao"
+            android:title="@string/menu_formcao" />
+        <item
+            android:id="@+id/nav_exp"
+            android:title="@string/menu_expprofis" />
+        <item
+            android:id="@+id/nav_curso"
+            android:title="@string/menu_curso" />
+        <item
+            android:id="@+id/nav_publicacao"
+            android:title="@string/menu_publi" />
+    </group>
+</menu>
